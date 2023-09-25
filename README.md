@@ -1,4 +1,4 @@
-# Projet Delirium (Projet de veille)
+# Projet Delirium (Projet de veille HTML/CSS)
 
 ## Objectif
 
