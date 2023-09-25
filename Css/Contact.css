@@ -1,0 +1,33 @@
+.contact__container {
+  width: 1200px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.contact__container h1 {
+  padding: 2rem;
+}
+
+.form__container {
+  display: flex;
+  flex-direction: column;
+  margin: 5rem;
+  width: 500px;
+}
+
+.form__container input {
+  display: inline-block;
+  height: 35px;
+  margin: 0.5rem;
+  width: 100%;
+}
+
+.form__container textarea {
+  margin: 1rem;
+  height: 200px;
+}
+
+.form__container button {
+  padding: 1rem;
+}
