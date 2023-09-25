@@ -21,3 +21,7 @@ Neumorphism: https://neumorphism.io
 Mis en ligne avec netlify :
 
 A cette adresse :
+
+## To do
+
+Design de la page Contact
