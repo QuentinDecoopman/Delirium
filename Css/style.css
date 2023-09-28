@@ -42,7 +42,7 @@ a:hover {
 
 .left {
   margin: 1rem 0rem 1rem -1rem;
-  background-image: url(../Images/1.png);
+  background-image: url(../Images/1.webp);
   background-attachment: fixed;
   width: 50%;
   box-shadow: 20px 20px 60px blanchedalmond, -20px -20px 60px #ffffff;
@@ -94,7 +94,7 @@ a:hover {
 
 .separator {
   margin: 3rem;
-  background-image: url(../Images/fantasy1.png);
+  background-image: url(../Images/fantasy1.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -147,7 +147,7 @@ a:hover {
 
 .separator2 {
   margin: 3rem;
-  background-image: url(../Images/cyberpunk1.png);
+  background-image: url(../Images/cyberpunk1.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -197,8 +197,6 @@ a:hover {
   width: 200px;
   border-radius: 10px;
 }
-
-/* background-image: linear-gradient(to right top, #530089, #66029b, #7a05ae, #8f07c0, #a508d2, #9f23d8, #9832de, #913de3, #6d49d8, #4a4fc9, #2950b7, #0a4fa2); */
 
 footer {
   background: #444;

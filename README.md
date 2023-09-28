@@ -18,10 +18,12 @@ Neumorphism: https://neumorphism.io
 
 ## Mise en ligne
 
-Mis en ligne avec netlify :
+Mis en ligne avec netlify : https://www.netlify.com/
 
-A cette adresse :
+A cette adresse : https://deliriumveille.netlify.app/
 
 ## To do
 
-Design de la page Contact
+- Design de la page Contact
+- Optimiser temps de chargement
+- Responsive
