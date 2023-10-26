@@ -25,5 +25,4 @@ A cette adresse : https://deliriumveille.netlify.app/
 ## To do
 
 - Design de la page Contact
-- Optimiser temps de chargement
 - Responsive
