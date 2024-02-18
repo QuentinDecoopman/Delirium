@@ -43,6 +43,10 @@ a:hover {
 .left {
   margin: 1rem 0rem 1rem -1rem;
   background-image: url(../Images/1.webp);
+  -webkit-background-size: center;
+  -moz-background-size: center;
+  -o-background-size: center;
+  background-size: center;
   background-attachment: fixed;
   width: 50%;
   box-shadow: 20px 20px 60px blanchedalmond, -20px -20px 60px #ffffff;
